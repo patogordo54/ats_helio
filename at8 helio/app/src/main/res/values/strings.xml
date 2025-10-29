@@ -1,0 +1,9 @@
+<resources>
+    <string name="menu_gordo">Pato Gordo</string>
+    <string name="menu_coca">Rabão</string>
+    <string name="menu_legal">Legal</string>
+    <string name="menu_bomdia">Bom dia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Patos tecnologicos</string>
+</resources>

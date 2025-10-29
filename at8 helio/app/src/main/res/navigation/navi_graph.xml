@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navi_graph"
+    app:startDestination="@id/menu_bomdia">
+
+    <fragment
+        android:id="@+id/menu_bomdia"
+        android:name="com.example.at8_jorge.BomFragment"
+        android:label="fragment_bom"
+        tools:layout="@layout/fragment_bom" />
+    <fragment
+        android:id="@+id/menu_coca"
+        android:name="com.example.at8_jorge.CocaFragment"
+        android:label="fragment_coca"
+        tools:layout="@layout/fragment_coca" />
+    <fragment
+        android:id="@+id/menu_legal"
+        android:name="com.example.at8_jorge.LegalFragment"
+        android:label="fragment_legal"
+        tools:layout="@layout/fragment_legal" />
+    <fragment
+        android:id="@+id/menu_gordo"
+        android:name="com.example.at8_jorge.GordoFragment"
+        android:label="fragment_gordo"
+        tools:layout="@layout/fragment_gordo" />
+</navigation>

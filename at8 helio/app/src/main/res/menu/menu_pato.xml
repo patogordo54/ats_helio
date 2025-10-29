@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_bomdia"
+        android:title="@string/menu_bomdia"/>
+    <item android:id="@+id/menu_gordo"
+        android:title="@string/menu_gordo"/>
+    <item android:id="@+id/menu_coca"
+        android:title="@string/menu_coca"/>
+    <item android:id="@+id/menu_legal"
+        android:title="@string/menu_legal"/>
+</menu>
